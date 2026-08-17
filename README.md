@@ -7,7 +7,7 @@ Proyecto grupal del curso de **Deep Learning**: un asistente que clasifica el se
 
 - Santiago Vero
 - Sofía González
-- [Nombre del tercer integrante]
+- Malena dos Santos
 
 ---
 
