@@ -473,18 +473,4 @@ Las correcciones humanas podrían transformarse en nuevos ejemplos etiquetados p
 
 ---
 
-## Video de presentación
 
-Agregar aquí el enlace al video de presentación del proyecto:
-
-```text
-[Ver video de presentación](URL_DEL_VIDEO)
-```
-
----
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-
-Consultar el archivo [`LICENSE`](LICENSE) para más información.
